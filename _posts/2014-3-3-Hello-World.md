@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my blog!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Here you can follow my journey in learning about coding and other cool stuff! This blog has three purposes:
+1. Helping other people learn through tutorials and informational content
+2. Documenting my learning process
+3. As a portfolio for prospective future employment
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+You can check out my Github here and see some of my favourite projects: https://github.com/immortaldigital
