@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there! Welcome to my dev blog. I'm just some guy who dropped out of computer science (got bored) but I still like to program on the side. You'll find some of my favourite projects on here including designing my own compiler, coding a neural network from scratch, and making a live wallpapers hack for Windows
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My eventual goal is to break into AGI research, but that will likely require finishing my degree. At this stage I'm just coding as a hobby while I decide where to go with my career.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rockst4r.jl@gmail.com](mailto:rockst4r.jl@gmail.com)
